@@ -1,4 +1,4 @@
-# Dokumentation Group: Client 1
+# Dokumentation Group: Schnatter
 Dokumentation Repository for group client 1
 
 
