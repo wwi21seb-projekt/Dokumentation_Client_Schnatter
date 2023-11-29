@@ -2,11 +2,11 @@
     {
         "id":"0e121180-8ec5-11ee-b9d1-0242ac120002",
         "username":"mamü23",
-        "profilpicture":"hppt://../profilImage.webp"
+        "profilpicture":"http://../profilImage.webp"
     },
     {
         "id":"0e120f46-8ec5-11ee-b9d1-0242ac12000",
         "username":"jssm2324",
-        "profilpicture":"hppt://../profilImage2.webp"
+        "profilpicture":"http://../profilImage2.webp"
     }
 ]

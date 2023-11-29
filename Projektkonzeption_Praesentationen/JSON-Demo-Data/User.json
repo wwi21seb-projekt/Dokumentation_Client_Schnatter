@@ -3,7 +3,7 @@
     "username":"jssm2324",
     "firstname":"Jessica",
     "lastname":"Smith",
-    "profilpicture":"hppt://../profilImage2.webp",
+    "profilpicture":"http://../profilImage2.webp",
     "biotext":"Happy World!",
     "birthday":"2023-07-12",
     "follower":123,
