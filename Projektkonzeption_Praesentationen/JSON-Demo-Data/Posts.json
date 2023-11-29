@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0e12051e-8ec5-11ee-b9d1-0242ac120002",
+    "likes": 254,
+    "created_at": "2023-12-24T09:30:00Z",
+    "created_by": {
+      "id": "0e1207c6-8ec5-11ee-b9d1-0242ac120002",
+      "username": "user12",
+      "profilpicture": "http://../image.webp"
+    },
+    "images": [
+      {
+        "url": "http://../image.webp",
+        "alt": "das ist ein Haus neben einen Kind"
+      }
+    ],
+    "comments": [
+      {
+        "id":"0e121d74-8ec5-11ee-b9d1-0242ac120002",
+        "created_by": {
+          "id": "0e120bd6-8ec5-11ee-b9d1-0242ac120002",
+          "username": "user23"
+        },
+        "created_at": "2023-12-24T11:30:00Z",
+        "text": "haha Lustig!"
+      }
+    ]
+  }
+]

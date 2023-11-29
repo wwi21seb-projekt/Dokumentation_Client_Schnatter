@@ -1,0 +1,11 @@
+{
+    "id":"0e120f46-8ec5-11ee-b9d1-0242ac12000",
+    "username":"jssm2324",
+    "firstname":"Jessica",
+    "lastname":"Smith",
+    "profilpicture":"hppt://../profilImage2.webp",
+    "biotext":"Happy World!",
+    "birthday":"2023-07-12",
+    "follower":123,
+    "followed":200
+}
