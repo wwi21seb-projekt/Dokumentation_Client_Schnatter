@@ -16,6 +16,7 @@ Deskriptive Namen:
 Camel Case:
 - Verwende Camel Case für Methodennamen.
 - Beispiel: calculateTotal(), getUserData()
+
 Aussagekräftige Namen:
 - Benutze aussagekräftige und klare Namen für Methoden, die ihre Funktion leicht verständlich machen.
 - Beispiel: getUserName(), calculateTotalPrice()
