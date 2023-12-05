@@ -1,9 +1,9 @@
 #Checkliste Code
 
 - [ ] Gibt es keine offensichtliche Logikfehler im Code 
-- [ ] Sind alle Variablen/Methoden etc. richtig und sprechend benannt
+- [ ] Sind alle Variablen/Methoden etc. richtig und sprechend benannt (siehe Coding Guidelines -> Benennung)
 - [ ] Sind alle relevant Tests geschrieben ("relevant siehe Code-Guidelines -> Tests)
-- [ ] Sind alle zuvor besprochenen Fehlerfälle abgedeckt?
+- [ ] Sind alle zuvor besprochenen Fehlerfälle abgedeckt? (StatusCodes)
 - [ ] Gibt es keine Code-Duplikationen (bsp schon implementierte Teile in Komponenten)
 - [ ] Ist die Codelänge in Ordnung? Wenn nein, wo gibt es Verbesserungspotenzial:
 
