@@ -63,7 +63,7 @@ enum Color {
 }
 ```
 
-## Module
+## Module / Componenten
 - Verwende Pascal Case für Namen von Namespace und Modulen
 - Beispiel: MyModule, MyNamespace
 
