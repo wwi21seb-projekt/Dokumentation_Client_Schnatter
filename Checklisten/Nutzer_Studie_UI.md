@@ -1,5 +1,5 @@
 # Checkliste Userbility-Test
-Die folgende Checkliste wird verwendet, wenn wir mit den externen Test-Usern das Programm auf Userbility testen. Die folgende Aufgaben sollen innerhalb von 5 Minuten umgesetzt werden. 
+Die folgende Checkliste wird verwendet, wenn wir mit den externen Test-Usern das Programm auf Userbility testen. Die folgende Aufgaben sollen innerhalb von 5 Minuten umgesetzt werden. Die folgende Liste wird den Test-Usern zur Verfügung gestellt.
 Die Minimalziele sind:
 - Registrieren und Einloggen
 - eigenen Text posten
