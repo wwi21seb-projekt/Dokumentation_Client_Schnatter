@@ -1,9 +1,9 @@
-### Ergebnisse
+# Ergebnisse
 
 ## Teilnehmerinformationen
 Anzahl der Teilnehmer: n = 4
 
-# Demografische Daten
+### Demografische Daten
 | Alter # | Anzahl der Teilnehmer  |
 |---------|---------|
 |   unter 20     |   1     |
@@ -76,21 +76,21 @@ Falls nein, wo war der Ladevorgang sehr lange?
 
 ## Ergebnisse: Ausführliches Feedback
 
-# Positiv
+### Positiv
 - sehr gute Intuitivität
 - Icons sind eindeutig
 - sehr simpel, schnell gut findbar
 
-# Negativ
+### Negativ
 - zurück zur Homepage war schwierig
 - kein Freund vom Stil: andere Schriftart?
 
-# Allgemein / Zusätzlich
+### Allgemein / Zusätzlich
 - geht das auch auf Handy?
 - wegen cookies erlauben nachfragen
 - warum ist die seite "nicht sicher"
 
-# Suche
+### Suche
 - Suche ist nicht so intuitiv
 - Hashtag-Suche klappt nicht, wenn man # mitschreibt
 - Bei suche vielleicht ausgewähltes Grün?
@@ -100,7 +100,7 @@ Falls nein, wo war der Ladevorgang sehr lange?
 - Suche nach Posts ist casesensitive
 - lieber Text, anstatt Icons bei Suche
 
-# Posts
+### Posts
 - wenn Post gelöscht wird: keine nachfrage, ob man sicher ist, dass man löschen möchte
 - Uhrzeit zu Post hinzufügen
 - man kann nicht auf hashtags klicken und dann dahin kommen
@@ -108,7 +108,7 @@ Falls nein, wo war der Ladevorgang sehr lange?
 - Man kann Posts nicht bearbeiten
 - wenn man neuen Post erstellt, dann fokus auf input
 
-# Profil
+### Profil
 - bei Follow: Toast sagt man kann User nicht followen und button ändert sich nicht, aber wenn man refreshed ist gefollowed
 - man sieht die leute nicht, die man abboniert hat oder die einem folgen
 - wenn man auf Abboniert/Folen war dann kann man klappt nichts mehr und man muss die Seite neu laden, um woanders hinzugelangen
@@ -121,21 +121,21 @@ Falls nein, wo war der Ladevorgang sehr lange?
 - ab zwei eigenen Posts wird Load-More Button angezeigt (auch wenn nicht mehr) und wenn man dann auf loadmore klickt kommt ein leerer Post, aber dann ist Seite kaputt
 
 
-# Passwort Ändern:
+### Passwort Ändern:
 - Bei Passwort Ändern wird altes passwort klar angezeigt
 - Bei Passwort Ändern : dann steht da registrieren, anstatt ändern
 
-# Fehlende/Falsche Übersetzungen:
+### Fehlende/Falsche Übersetzungen:
 - keine Übersetzung bei Namen-Ändern
 - Email bei Registrierung ist auf Englisch auch wenn, auf Deutsch eingestellt ist
 - Verify Account ist nicht übersetzt
 - hover über Nav-Bar ist nur Englisch
 - sollte Abbonnieren lieber folgen heißen?
 
-# Login:
+### Login:
 - Man will Email angeben anstatt Benutzer name
 
-# Nav-Bar:
+### Nav-Bar:
 - man klickt erst auf Messages, wenn man posten möchte
 - Bei klick der Ente, bitte geräusch
 - Bei klick auf Enten-Icon: geht nicht zurück zur Home-Page
