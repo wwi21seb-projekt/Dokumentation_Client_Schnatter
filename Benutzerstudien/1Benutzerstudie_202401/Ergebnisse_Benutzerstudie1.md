@@ -37,7 +37,6 @@ Falls nein, was hat gefehlt?
 - Das Farbschema, die Schriften und Designelemente waren auf allen Seiten der App konsistent?
 Durchschnittsbewertung: 10
 Falls nein, wo gab es Abweichungen?
-    - 
 
 - Alle Links und Button haben mich zu den zu erwartenden Seiten geführt?
 Durchschnittsbewertung: 8,75
@@ -67,7 +66,6 @@ Falls nein, wo waren die Toggles etc. unpassend benannt?
 - Wechseln Sie den Browser. Wird die Seite dort auch fehlerfrei angezeigt?
 Durchschnittsbewertung: 10
 Falls nein, in welchen Browsern kommt es zu einer fehlerhaften Darstellung?
-    - 
 
 - Die Ladezeiten waren angenehm und ich habe keine benutzerunfreundlichen Wartezeiten gehabt? 
 Durchschnittsbewertung: 9,75
