@@ -120,24 +120,24 @@ Falls nein, wo war der Ladevorgang sehr lange?
 
 
 ### Passwort Ändern:
-- Bei Passwort Ändern wird altes passwort klar angezeigt [ ]
-- Bei Passwort Ändern : dann steht da registrieren, anstatt ändern [ ]
+- Bei Passwort Ändern wird altes passwort klar angezeigt 
+- Bei Passwort Ändern : dann steht da registrieren, anstatt ändern 
 
 ### Fehlende/Falsche Übersetzungen:
-- keine Übersetzung bei Namen-Ändern [ ]
-- Email bei Registrierung ist auf Englisch auch wenn, auf Deutsch eingestellt ist [ ]
-- Verify Account ist nicht übersetzt [ ]
-- hover über Nav-Bar ist nur Englisch [ ]
-- sollte Abbonnieren lieber folgen heißen? [ ]
+- keine Übersetzung bei Namen-Ändern 
+- Email bei Registrierung ist auf Englisch auch wenn, auf Deutsch eingestellt ist 
+- Verify Account ist nicht übersetzt 
+- hover über Nav-Bar ist nur Englisch 
+- sollte Abbonnieren lieber folgen heißen? 
 
 ### Login:
-- Man will Email angeben anstatt Benutzer name [ ]
+- Man will Email angeben anstatt Benutzer name 
 
 ### Nav-Bar:
-- man klickt erst auf Messages, wenn man posten möchte [ ]
-- Bei klick der Ente, bitte geräusch [ ]
-- Bei klick auf Enten-Icon: geht nicht zurück zur Home-Page [ ]
-- Profil-Icon sollte gefüllt sein, damit es einheitlicher ist [ ]
+- man klickt erst auf Messages, wenn man posten möchte 
+- Bei klick der Ente, bitte geräusch 
+- Bei klick auf Enten-Icon: geht nicht zurück zur Home-Page 
+- Profil-Icon sollte gefüllt sein, damit es einheitlicher ist 
  
 
 
