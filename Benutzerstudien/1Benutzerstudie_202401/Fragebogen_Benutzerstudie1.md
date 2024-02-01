@@ -24,16 +24,16 @@ Falls nein, wo gab es eine fehlerhafte Weiterleitung?
 - Bei den Input-Feldern wurden die Eingaben so erwartet wie ich es intuitiv vermutet habe oder ich habe das angegebene Format verstanden?
 Falls nein, wo kam es zu Missverständnissen bei der Einagbe?
 
-- [ ] Bei fehlerhaften Eingaben meinerseits in den Input-Feldern wurden mir verständliche Fehlermeldungen gezeigt, sodass ich den Fehler beheben konnte?
+- Bei fehlerhaften Eingaben meinerseits in den Input-Feldern wurden mir verständliche Fehlermeldungen gezeigt, sodass ich den Fehler beheben konnte?
 Falls nein, wo gab es unverständliche Fehlermeldungen?
 
-- [ ] Interaktive Elemente wie Toggles oder Regler waren klar zu erkennen und die Bennenung entsprach meinen Verständnis?
+- Interaktive Elemente wie Toggles oder Regler waren klar zu erkennen und die Bennenung entsprach meinen Verständnis?
 Falls nein, wo waren die Toggles etc. unpassend benannt?
 
-- [ ] Wechseln Sie den Browser. Wird die Seite dort auch fehlerfrei angezeigt?
+- Wechseln Sie den Browser. Wird die Seite dort auch fehlerfrei angezeigt?
 Falls nein, in welchen Browsern kommt es zu einer fehlerhaften Darstellung?
 
-- [ ] Die Ladezeiten waren angenehm und ich habe keine benutzerunfreundlichen Wartezeiten gehabt? (Nur relevant, wenn wir beispielsweise im Frontend filtern o.ä.)
+- Die Ladezeiten waren angenehm und ich habe keine benutzerunfreundlichen Wartezeiten gehabt? (Nur relevant, wenn wir beispielsweise im Frontend filtern o.ä.)
 Falls nein, wo war der Ladevorgang sehr lange?
 
 ## Dazu gestelltes ausführliches Feedback
