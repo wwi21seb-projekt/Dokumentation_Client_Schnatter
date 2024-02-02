@@ -30,7 +30,7 @@
 - [x] ab zwei eigenen Posts wird Load-More Button angezeigt (hier vielleicht erst bei mehr als 10? --> mit records arbeiten)
 - [x] wenn kein Status, dann wird nicht angezeigt, dass status möglich wäre und wie man den anpasst
 - [ ] speicher button bei status bearbeiten nicht intuitiv, vielleicht unten speicher-button einfügen
-- [x] in status: wenn mehrere Zeilen, wird automatisch zusammen gezogen (hier kein <p/> nutzen)
+- [x] in status: wenn mehrere Zeilen, wird automatisch zusammen gezogen
 - [x] ab zwei eigenen Posts wird Load-More Button angezeigt (auch wenn nicht mehr) und wenn man dann auf loadmore klickt kommt ein leerer Post, aber dann ist Seite kaputt
 
 
