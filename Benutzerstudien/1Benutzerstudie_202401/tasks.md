@@ -52,4 +52,9 @@
 - [x] man klickt erst auf Messages, wenn man posten möchte 
 - [x] Bei klick der Ente, bitte geräusch 
 - [x] Bei klick auf Enten-Icon: geht nicht zurück zur Home-Page 
-- [x] Profil-Icon sollte gefüllt sein, damit es einheitlicher ist 
+- [x] Profil-Icon sollte gefüllt sein, damit es einheitlicher ist
+
+### Späteres Feedback
+- [ ] Keine Aktualisierung nach Follow
+- [ ] Standort zu genau, evtl. etwas unsave (exakte Koordinaten sind einsehbar)
+
