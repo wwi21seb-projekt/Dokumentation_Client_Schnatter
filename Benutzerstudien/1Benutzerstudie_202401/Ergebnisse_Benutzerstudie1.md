@@ -22,36 +22,36 @@ Anzahl der Teilnehmer: n = 4
 
 Hier werden die durchschnittlichen Werte der Skalen-Antworten dokumentiert und die Kommentare gesammelt.
 
-- Ich wusste durchgehend wo ich hinklicken musste, um die gewünschte Seite zu erreichen.
+- Ich wusste durchgehend wo ich hinklicken musste, um die gewünschte Seite zu erreichen.<br>
 Durchschnittsbewertung: 9
 Falls nein, an welchen Stellen war das nicht der Fall?
     - Post, neue posts erstellen, 
     - posts suchen
 
-- Die Startseite hat mir einen Überblick über alle grundlegenden Funktionen geboten
+- Die Startseite hat mir einen Überblick über alle grundlegenden Funktionen geboten. <br>
 Durchschnittsbewertung: 8,66
 Falls nein, was hat gefehlt?
     - auf Startseite: Runter schreiben was die Icons bedeuten
     - Vorschlag für neuen Button zum neuen Post: auf Startseite: verfasse einen eigenen Post
 
-- Das Farbschema, die Schriften und Designelemente waren auf allen Seiten der App konsistent?
+- Das Farbschema, die Schriften und Designelemente waren auf allen Seiten der App konsistent. <br>
 Durchschnittsbewertung: 10
 Falls nein, wo gab es Abweichungen?
     - 
 
-- Alle Links und Button haben mich zu den zu erwartenden Seiten geführt?
+- Alle Links und Button haben mich zu den zu erwartenden Seiten geführt. <br>
 Durchschnittsbewertung: 8,75
 Falls nein, wo gab es eine fehlerhafte Weiterleitung?
     - Abboniert zu Home geht nicht 
     - posts und messages verwechselbar 
     - hab post und message verwechselt
 
-- Bei den Input-Feldern wurden die Eingaben so erwartet wie ich es intuitiv vermutet habe oder ich habe das angegebene Format verstanden?
+- Bei den Input-Feldern wurden die Eingaben so erwartet wie ich es intuitiv vermutet habe oder ich habe das angegebene Format verstanden. <br>
 Durchschnittsbewertung: 8,75
 Falls nein, wo kam es zu Missverständnissen bei der Einagbe?
     - Hier bei Anmeldung anstatt Username Email verwendet
 
-- Bei fehlerhaften Eingaben meinerseits in den Input-Feldern wurden mir verständliche Fehlermeldungen gezeigt, sodass ich den Fehler beheben konnte?
+- Bei fehlerhaften Eingaben meinerseits in den Input-Feldern wurden mir verständliche Fehlermeldungen gezeigt, sodass ich den Fehler beheben konnte. <br>
 Durchschnittsbewertung: 9,75
 Falls nein, wo gab es unverständliche Fehlermeldungen?
     - joa, hat geklappt 
@@ -59,17 +59,17 @@ Falls nein, wo gab es unverständliche Fehlermeldungen?
     - bei suche bisschen problematisch, 
     - bei messages: sowas wie: diese Feature gibt es noch nicht, 
 
-- Interaktive Elemente wie Toggles oder Regler waren klar zu erkennen und die Bennenung entsprach meinen Verständnis?
+- Interaktive Elemente wie Toggles oder Regler waren klar zu erkennen und die Bennenung entsprach meinen Verständnis. <br>
 Durchschnittsbewertung: 9,5
 Falls nein, wo waren die Toggles etc. unpassend benannt?
     - bei suche bisschen problematisch
 
-- Wechseln Sie den Browser. Wird die Seite dort auch fehlerfrei angezeigt?
+- Wechseln Sie den Browser. Wird die Seite dort auch fehlerfrei angezeigt. <br>
 Durchschnittsbewertung: 10
 Falls nein, in welchen Browsern kommt es zu einer fehlerhaften Darstellung?
     - 
 
-- Die Ladezeiten waren angenehm und ich habe keine benutzerunfreundlichen Wartezeiten gehabt? 
+- Die Ladezeiten waren angenehm und ich habe keine benutzerunfreundlichen Wartezeiten gehabt. <br>
 Durchschnittsbewertung: 9,75
 Falls nein, wo war der Ladevorgang sehr lange?
     - Email zur Registrierung kam sehr spät
