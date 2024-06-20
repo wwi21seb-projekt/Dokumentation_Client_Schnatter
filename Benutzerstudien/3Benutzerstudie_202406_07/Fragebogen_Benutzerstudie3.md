@@ -1,6 +1,6 @@
 ## Aufgabe, die erfüllt werden mussten
 - lege dir ein Nutzerprofil mit Profilbild an
-- logge dich auf der Webseite "Schnatter ([schnatter](https://schnatter.mabu2807.de/))" ein
+- logge dich auf der Webseite [Schnatter](https://schnatter.mabu2807.de/) ein
 - erstelle einen Bild-Post mit einem kurzen Text deiner Wahl (nutze Hashtag) und poste diesen
 - suche den User "lisa" und folge dem User "lisa"
 - suche nach Posts mit dem Hashtag "cool"
