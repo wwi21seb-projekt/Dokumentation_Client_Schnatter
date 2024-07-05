@@ -19,7 +19,7 @@
 - [ ] Wenn man im eigenen Profil ist, funktioniert die benachrichtigungsweiterleitung zu anderen profilen nicht
 - [ ] Weiterleitung zu Profil nicht nur wenn man auf Namen klickt, sondern ganze Kachel
 
-### LogIN
+### LogI
 - [ ] Bug: Man loggt sich ein, die Seite aktualisiert sich aber nicht (anscheinend keine Reaktion auf Button-Klick), erst bei Neuladen der Seite ist man eingeloggt
 - [ ] Möglichkeit einbauen, das Passwort sichbar zu machen
 
@@ -28,8 +28,8 @@
 - [ ] svg aus möglichen Bildformaten rausnehmen
 - [ ] Bei jeden Post nach der Ortungsfreigabe, darauf hinweisen, dass Ort mit veröffentlicht wird. Manuelles Ein- und Ausschalten wäre gut.
 
-### Impressum
-- [ ] Auf impressum footer hängt in der Luft (nicht unten) 
+### About Us
+- [ ] Auf About us footer hängt in der Luft (nicht unten) 
 
 ### Suche
 - [ ] Bei Post-Suche Hashtag-Icon verwenden, Suche immer noch intuitiv
