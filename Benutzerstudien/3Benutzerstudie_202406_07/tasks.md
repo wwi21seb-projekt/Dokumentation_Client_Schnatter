@@ -5,6 +5,7 @@
 - [ ] Erkenntlich machen ob etwas ein Repost ist: Über das Modal "Repost" schreiben
 - [ ] Hashtags klickable machen
 - [ ] Anzeigen, wieviele/ob Kommentare geschrieben wurde; Vorschlag: Kommentarbutton unterlegen (filled), falls Kommentare existieren
+- [ ] Repost ohne weiteren Inhalt geht nicht (ohne Text)
 
 ### Chat
 - [ ] Chat starten ist unintuitiv
@@ -40,8 +41,12 @@
 - [ ] Nach Änderung des Profilbild im Profil: Erneutes Speichern ist unintuitiv
 
 ### Passwort zurücksetzen
-- [ ] Nach Absenden des Benutzernamens: Ausdrücklich sagen, dass ein Code an Email gesendet wurde
+Nach Absenden des Benutzernamens: Ausdrücklich sagen, dass ein Code an Email gesendet wurde
 - [ ] Passwort ändern Icon im Profil ist nicht verständlich
 
+### Registrierung
+- [ ] Ungültiger Character-Fehlermeldung geht nicht weg, auch wenn man Zeichen wieder löscht
+- [ ] Verify Code: Bei Navigieren mit Tab über die Seite wird auch quackquack, und send new code ausgelöst, nicht nur bei klick, genauso bei neuen code senden
+    
 ### Sonstiges
 - [ ] Abboniert (Startseite) und Abboniert in Profile heißen gleich
