@@ -1,6 +1,6 @@
 
 ### Interaktionen
-- [ ] Nach dem Abschicken eines Kommentars springt man automatisch auf den Anfang der Seite, auch wenn man das nicht will
+- [x] Nach dem Abschicken eines Kommentars springt man automatisch auf den Anfang der Seite, auch wenn man das nicht will
 - [ ] Erster Repost wird doppelt gepostet
 - [ ] Erkenntlich machen ob etwas ein Repost ist: Über das Modal "Repost" schreiben
 - [ ] Hashtags klickable machen
