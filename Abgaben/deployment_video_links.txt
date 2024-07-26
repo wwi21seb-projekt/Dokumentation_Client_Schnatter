@@ -1,0 +1,14 @@
+Hier alle Links aus dem Video:
+
+Vercel:
+https://vercel.com/
+
+
+ssh-keys generieren:
+https://www.ionos.de/digitalguide/server/konfiguration/ssh-key-unter-ubuntu/
+
+dns-dns einrichten:
+https://www.ionos.de/hilfe/domains/ip-adresse-konfigurieren/dynamisches-dns-ddns-einrichten-bei-company-name/
+
+Ubuntu Service-Unit:
+https://wiki.ubuntuusers.de/systemd/Service_Units/
